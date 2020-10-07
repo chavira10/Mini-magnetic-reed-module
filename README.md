@@ -7,12 +7,17 @@ El Módulo interruptor de láminas magnético Arduino Keyes KY-021. Un interrupt
 
 
 ![ScreenShot](1.png)
-![ScreenShot](2.png)
+![](2.jpg)
 
 
 
-Especificaciones
+*Especificaciones*
+
 El mini módulo de interruptor de lengüeta magnético KY-021 consta de una resistencia de 10 kΩ y un pequeño interruptor de lengüeta accionado por un campo magnético, comúnmente utilizado en sistemas mecánicos como sensores de proximidad. Compatible con plataformas electrónicas populares como Arduino, Teensy y ESP8266.
+
+
+
+
 
 | Tension de funcionamiento | 3.3V hasta 5V |
 |---------------------------|---------------|
