@@ -20,7 +20,8 @@ El mini módulo de interruptor de lengüeta magnético KY-021 consta de una resi
 
 
 
-Diagrama de conexión KY-021
+*Diagrama de conexión KY-021*
+![](3.png)
 Conecte la línea de alimentación (medio) y la tierra (-) del módulo a +5 y GND respectivamente. Conecte la señal (S) al pin 2 en el Arduino.
 
 | KY-021 | Arduino  |
@@ -36,7 +37,7 @@ Conecte la línea de alimentación (medio) y la tierra (-) del módulo a +5 y GN
 Diagrama de conexión KY-021
 Código de ejemplo KY-021 Arduino
 
-El siguiente boceto encenderá el LED del pin 13 en el Arduino cuando el módulo detecte un campo magnético. Coloque un imán cerca del KY-021 para activar el interruptor del carrete.
+El siguiente codigo encenderá el LED del pin 13 en el Arduino cuando el módulo detecte un campo magnético,cuando este coloque un imán cerca del KY-021 para activar el interruptor del carrete.
 
 
 ```
